@@ -1,0 +1,6 @@
+/workspaces/smartnode-install/WalletExample/EvmSimulatorExample/ERC20TestsExample/obj/Debug/net8.0/ERC20TestsExample.csproj.AssemblyReference.cache
+/workspaces/smartnode-install/WalletExample/EvmSimulatorExample/ERC20TestsExample/obj/Debug/net8.0/ERC20TestsExample.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/smartnode-install/WalletExample/EvmSimulatorExample/ERC20TestsExample/obj/Debug/net8.0/ERC20TestsExample.AssemblyInfoInputs.cache
+/workspaces/smartnode-install/WalletExample/EvmSimulatorExample/ERC20TestsExample/obj/Debug/net8.0/ERC20TestsExample.AssemblyInfo.cs
+/workspaces/smartnode-install/WalletExample/EvmSimulatorExample/ERC20TestsExample/obj/Debug/net8.0/ERC20TestsExample.csproj.CoreCompileInputs.cache
+/workspaces/smartnode-install/WalletExample/EvmSimulatorExample/ERC20TestsExample/obj/Debug/net8.0/ERC20TestsExample.sourcelink.json
